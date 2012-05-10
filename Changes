@@ -1,0 +1,15 @@
+Changelog for YAML-Merge-Simple
+
+0.01_01 2012-05-10T21:34:38
+ [André Santos <andrefs@cpan.org>]
+ - removed unwanted dependencies
+
+ - removed subroutines prototypes
+
+ - subs merge and merge_files. tests
+
+ - first viable version?
+
+ - initial commit
+
+
